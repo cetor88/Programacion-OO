@@ -1,0 +1,19 @@
+1 HECTOR HERNANDEZ TETLALMATZI;
+2 ANA GARRIDO RODRIGUEZ
+3 SERGIO HERNDEZ JIMENEZ
+
+
+
+La Municipalidad de La Molina brinda un servicio gratuito de transporte para los
+ vecinos de la zona que deseen visitar a la Municipalidad. 
+Para lo cual dispone de 6 buses que circulan todo el día de 9 a 1 p.m. 
+La capacidad máxima de cada bus es de 40 personas, no se permite transportar parados.
+Para lograr hacer uso de este servicio es necesario inscribirse por internet,
+ ingresando solo el número de DNI de la persona, la aplicación deberá verificar
+ la disponibilidad del bus y obviamente de un sitio dentro del bus.
+El criterio de distribución de pasajeros dentro de cada bus es cualquier 
+algoritmo simple que ni bien encuentre un sitio vacío en algún bus le asigne su asiento respectivo. 
+Se requiere saber la cantidad de personas registradas en cada bus al término del
+    proceso de separación de pases.
+La ubicación (número de bus y número de asiento) de una persona considerando 
+que cada asiento está numerado del 1 al 40 en cada bus.
